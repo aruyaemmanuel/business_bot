@@ -1,0 +1,31 @@
+{
+  "businessName": "Apex Digital Solutions",
+  "tagline": "Transforming Workflows with Web & AI Automation",
+  "overview": "We specialize in building modern web applications, intelligent Telegram/WhatsApp bots, and AI-driven automation workflows to scale business operations.",
+  "services": [
+    {
+      "name": "🌐 Web & Mobile App Development",
+      "description": "Custom Next.js web applications, cross-platform mobile apps, and high-performance landing pages."
+    },
+    {
+      "name": "🤖 AI Bots & Workflow Automation",
+      "description": "Tailored Telegram and WhatsApp bots integrated with custom LLMs, CRM connections, and automated workflows."
+    },
+    {
+      "name": "⚡ Technical Consulting & MVP Builds",
+      "description": "End-to-end architecture planning, code reviews, and rapid prototype development for startups."
+    }
+  ],
+  "pricing": {
+    "startingPrice": "Flexible packages tailored to project scope",
+    "note": "Custom quotes provided after initial discovery consultation."
+  },
+  "cta": {
+    "message": "Ready to build or automate your business? Choose an option below to connect with us!",
+    "links": {
+      "booking": "https://yourwebsite.com/book",
+      "whatsapp": "https://wa.me/234XXXXXXXXXX",
+      "website": "https://yourwebsite.com"
+    }
+  }
+}
